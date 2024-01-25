@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.theme{
+    display:flex;
+    justify-content:center;
+    margin-top: 20px;
+}
+span{
+    display: block;
+}
+.text{
+    background-color: black;
+    color:tomato;
+    text-align: center;
+}
+.button{
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    display: inline-block;
+    margin-left: 10px;
+}
+#black{
+    background-color:black;
+}
+#purple{
+    background-color: purple;
+}
+#magenta{
+    background-color: magenta;
+}
+#olive{
+    background-color: olive;
+}
+#blue{
+    background-color: blue;
+}
